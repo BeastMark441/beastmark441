@@ -57,7 +57,7 @@
 ## 📫 Как связаться со мной
 
 - **Email**: [beastmark441@gmail.com](mailto:beastmark441@gmail.com)
-- **Telegram**: [@BeastMarkWork](https://t.me/@beastmarkwork/)
+- **Telegram**: [@BeastMarkWork](https://t.me/@beastmark441/)
 - **VK**: [@defaltmark](https://vk.me/defaltmark)
 - **Discord**: beastmark
 
