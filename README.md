@@ -35,6 +35,11 @@
    - **Описание**: Пользовательский плагин, разработанный для улучшения многопользовательской игры за счет добавления уникальных функций, таких как экономические системы, мини-игры или модерация чата.
    - **Стек технологий**: Java, Bukkit/Spigot API.
    - **Репозиторий**: [Ссылка на репозиторий](https://github.com/beastmark441/bugreport)
+     
+### 2. **Перевод панели Pterodactyl**
+   - **Описание**: Бесплатный русскоязычный перевод панели pterodactyl.
+   - **Стек технологий**: PHP, Laravel, TS, JS, HTML, CSS
+   - **Репозиторий**: [Ссылка на репозиторий](https://github.com/beastmark441/pterodactyl)
 
 ---
 
@@ -57,7 +62,7 @@
 ## 📫 Как связаться со мной
 
 - **Email**: [beastmark441@gmail.com](mailto:beastmark441@gmail.com)
-- **Telegram**: [@BeastMarkWork](https://t.me/@beastmark441/)
+- **Telegram**: [@BeastMark](https://t.me/@beastmark441/)
 - **VK**: [@defaltmark](https://vk.me/defaltmark)
 - **Discord**: beastmark
 
